@@ -1,9 +1,9 @@
 @media(max-width:1000px) {
-  .d-flex,justify-content-center {
+  #js-items {
     width: 100%
     flex-direction:column;
     }
-  button {
+  .m-2 button {
     margin-bottom: 3px;
   }
 }
