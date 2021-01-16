@@ -1,6 +1,5 @@
 @media(max-width:670px) {
   #js-items {
-    width: 100%
     flex-direction:column;
     }
   .m-2 button {
