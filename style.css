@@ -1,5 +1,5 @@
 @media(max-width:670px){
-  .m-2 {
+  button {
     width: 100%
     flex-direction:column;
     margin-bottom: 3px;
