@@ -1,5 +1,5 @@
 @media(max-width:1000px) {
-  .m-2 {
+  .d-flex,justify-content-center {
     width: 100%
     flex-direction:column;
     }
